@@ -4,6 +4,8 @@ Version 1.1.0 (03.13.2021)
 By Kyodan
 
 This mod decreases the camera recoil for all weapons (except throwables and melee)!
+
+**Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/ReducinRecoil/releases**
                                                                                    
 ## Info
 
