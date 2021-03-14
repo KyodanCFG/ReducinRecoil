@@ -1,0 +1,9 @@
+{
+    "gameplay": {
+      "reducinRecoil": true,
+      "recoilRate_1": 0.5,
+      "recoilRate_2": 0.4,
+      "recoilRate_3": 0.3,
+      "recoilRate_4": 0.2
+    }
+}

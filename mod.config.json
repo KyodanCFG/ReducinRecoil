@@ -1,0 +1,9 @@
+{
+	"name": "ReducinRecoil",
+	"author": "Kyodan",
+	"version": "1.1.0",
+	"license": "MIT",
+	"src": {
+		"src/Reducin.js": "CacheModLoad"
+	}
+}
