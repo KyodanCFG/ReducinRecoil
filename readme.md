@@ -60,5 +60,5 @@ I am not responsible for any data loss in relation to the use of this mod (inclu
 
 ## Changelog
 
-- 02.28.21
-    * Made compatible with JET 1.1.0
+- 03.13.21
+    * Initial push to Github
