@@ -27,19 +27,19 @@ This mod decreases the camera recoil for all weapons (except throwables and mele
 ## Settings
 
 - Below are the default settings:
-    * "reducinRecoil": true
-    * "recoilRate_1": 0.5,
-    * "recoilRate_2": 0.4,
-    * "recoilRate_3": 0.3,
-    * "recoilRate_4": 0.2
+    * `reducinRecoil`: true
+    * `recoilRate_1`: 0.5,
+    * `recoilRate_2`: 0.4,
+    * `recoilRate_3`: 0.3,
+    * `recoilRate_4`: 0.2
 
 - Below are the flags for each setting:
-    * "reducinRecoil" (true|false)          - determines if this script is enabled/disabled
-    * "recoilRate_1" (float)                - determines how much recoil is decreased 
+    * `reducinRecoil` (true|false)          - determines if this script is enabled/disabled
+    * `recoilRate_1` (float)                - determines how much recoil is decreased 
                                             (0 is no recoil reduction, 0.5 is half recoil, 1 is no recoil)
-    * "recoilRate_2" (float)             
-    * "recoilRate_3" (float)
-    * "recoilRate_4" (float)
+    * `recoilRate_2` (float)             
+    * `recoilRate_3` (float)
+    * `recoilRate_4` (float)
 
 ## Files
 
