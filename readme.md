@@ -8,10 +8,10 @@ This mod decreases the camera recoil for all weapons (except throwables and mele
 ## Info
 
 - By default, this mod will adjust settings for the following weapons to decrease their camera recoil:
-    * Assault Rifle, Machinegun, and Submachinegun camera recoil reduced by 50%
-    * Assault Carbine, Bolt-Action Rifle, and Pistol camera recoil reduced by 40%
-    * Marksman Rifle and Shotgun camera recoil reduced by 30%
-    * Grenade Launcher camera recoil reduced by 20%
+    * Assault Rifle, Machinegun, and Submachinegun camera recoil reduced by `50%`
+    * Assault Carbine, Bolt-Action Rifle, and Pistol camera recoil reduced by `40%`
+    * Marksman Rifle and Shotgun camera recoil reduced by `30%`
+    * Grenade Launcher camera recoil reduced by `20%`
 
 ## Installation
 
