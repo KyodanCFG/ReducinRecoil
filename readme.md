@@ -1,6 +1,6 @@
 Reducin' Recoil [Camera] (for JET v1.1.0)
 ----------------
-Version 1.1.0 (02.28.2021)
+Version 1.1.0 (03.13.2021)
 By Kyodan
 
 This mod decreases the camera recoil for all weapons (except throwables and melee)!
@@ -44,10 +44,10 @@ This mod decreases the camera recoil for all weapons (except throwables and mele
 ## Files
 
 - If any of the files below are missing/misplaced, you may have to redownload/reinstall this archive:
-    * src/Reducin.js
-    * mod.config.json
-    * settings.json
-    * readme.md
+    * `src/Reducin.js`
+    * `mod.config.json`
+    * `settings.json`
+    * `readme.md`
 
 ## Need help?
 
