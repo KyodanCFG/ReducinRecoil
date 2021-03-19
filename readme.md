@@ -1,6 +1,6 @@
 Reducin' Recoil [Camera] (for JET Server v1.1.0) ![GitHub all releases](https://img.shields.io/github/downloads/KyodanCFG/ReducinRecoil/total?color=green&label=Downloads&style=flat-square)
 ----------------
-Version `1.1.0` (`03.13.2021`)
+Version `1.1.0` (`03.13.2021`) 
 By Kyodan
 
 This mod decreases the camera recoil for all weapons (except throwables and melee)!
